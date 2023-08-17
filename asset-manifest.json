@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f7d93f3.css",
+    "main.js": "/static/js/main.c66358ce.js",
+    "static/media/banner.png": "/static/media/banner.dc98198e77f92593c82f.png",
+    "static/media/poster-video.png": "/static/media/poster-video.2032f0e257b8ceb23ace.png",
+    "static/media/gallery-1.png": "/static/media/gallery-1.75bfcf544409c4aa775c.png",
+    "static/media/about-us-decor.png": "/static/media/about-us-decor.1c9885a33fdb0b38b480.png",
+    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.b22fe5caeddce930c9e1.woff",
+    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.63cf06b6d0089512ad07.woff",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.d6faae4f5b1637779ae9.woff",
+    "static/media/create.svg": "/static/media/create.508928ec6cf5389df207709d68930c26.svg",
+    "static/media/logistics.svg": "/static/media/logistics.a933fefea8a182b54f49e914331066b5.svg",
+    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.9f00bc2d8a7beeda093a.woff2",
+    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.c0eae82d207026ba4426.woff2",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.fcb334ae86289352c6f6.woff2",
+    "static/media/іван-мазейнюк.png": "/static/media/іван-мазейнюк.e1f5f26503e505274ea4.png",
+    "static/media/combining.svg": "/static/media/combining.14df0ba6a685b6c4ec4ac7de66ef35cb.svg",
+    "static/media/email.svg": "/static/media/email.f7f61687a05d375354d1d45358044514.svg",
+    "static/media/phone.svg": "/static/media/phone.82f905808c04eab1442ed2483fcf1d81.svg",
+    "static/media/location.svg": "/static/media/location.f5bbc4a3e71e0a3ddb8835eb993f9374.svg",
+    "static/media/logo.svg": "/static/media/logo.ef311495b97ad6cf865c81b403dba6ba.svg",
+    "index.html": "/index.html",
+    "main.1f7d93f3.css.map": "/static/css/main.1f7d93f3.css.map",
+    "main.c66358ce.js.map": "/static/js/main.c66358ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7d93f3.css",
+    "static/js/main.c66358ce.js"
+  ]
+}
